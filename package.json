@@ -1,0 +1,24 @@
+{
+  "name": "eshop",
+  "version": "1.0.0",
+  "description": "Eshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "express-jwt": "^6.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.10",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.14"
+  }
+}
